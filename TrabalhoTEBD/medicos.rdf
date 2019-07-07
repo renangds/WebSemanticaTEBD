@@ -1,0 +1,705 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://consultasmedicas.io/medico/"
+    xmlns:j.1="http://consultasmedicas.io/especialidade/">
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/56">
+    <j.0:valor_consulta>171</j.0:valor_consulta>
+    <j.0:ano_formacao>1978</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Noah Silveira</j.0:nome_medico>
+    <j.0:crm>56</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/44">
+    <j.0:valor_consulta>159</j.0:valor_consulta>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Pietra da Costa</j.0:nome_medico>
+    <j.0:crm>44</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/32">
+    <j.0:valor_consulta>106</j.0:valor_consulta>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Larissa da Paz</j.0:nome_medico>
+    <j.0:crm>32</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/20">
+    <j.0:valor_consulta>306</j.0:valor_consulta>
+    <j.0:ano_formacao>2001</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Enrico Silveira</j.0:nome_medico>
+    <j.0:crm>20</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/96">
+    <j.0:valor_consulta>270</j.0:valor_consulta>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Miguel da Paz</j.0:nome_medico>
+    <j.0:crm>96</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/84">
+    <j.0:valor_consulta>311</j.0:valor_consulta>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Camila Nascimento</j.0:nome_medico>
+    <j.0:crm>84</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/72">
+    <j.0:valor_consulta>251</j.0:valor_consulta>
+    <j.0:ano_formacao>1970</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Henrique Correia</j.0:nome_medico>
+    <j.0:crm>72</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/60">
+    <j.0:valor_consulta>209</j.0:valor_consulta>
+    <j.0:ano_formacao>2008</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Dra. Ana Vitória Moura</j.0:nome_medico>
+    <j.0:crm>60</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/7">
+    <j.0:valor_consulta>335</j.0:valor_consulta>
+    <j.0:ano_formacao>2012</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Rodrigo Silva</j.0:nome_medico>
+    <j.0:crm>7</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/29">
+    <j.0:valor_consulta>198</j.0:valor_consulta>
+    <j.0:ano_formacao>2019</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Letícia Moraes</j.0:nome_medico>
+    <j.0:crm>29</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/17">
+    <j.0:valor_consulta>221</j.0:valor_consulta>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Carlos Eduardo Pereira</j.0:nome_medico>
+    <j.0:crm>17</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/69">
+    <j.0:valor_consulta>110</j.0:valor_consulta>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Ana Lívia Oliveira</j.0:nome_medico>
+    <j.0:crm>69</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/57">
+    <j.0:valor_consulta>281</j.0:valor_consulta>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Amanda Melo</j.0:nome_medico>
+    <j.0:crm>57</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/67">
+    <j.0:valor_consulta>182</j.0:valor_consulta>
+    <j.0:ano_formacao>1985</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Lorenzo da Cunha</j.0:nome_medico>
+    <j.0:crm>67</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/55">
+    <j.0:valor_consulta>275</j.0:valor_consulta>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Stephany da Costa</j.0:nome_medico>
+    <j.0:crm>55</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/43">
+    <j.0:valor_consulta>396</j.0:valor_consulta>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Raul Dias</j.0:nome_medico>
+    <j.0:crm>43</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/31">
+    <j.0:valor_consulta>218</j.0:valor_consulta>
+    <j.0:ano_formacao>2002</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Yago Sales</j.0:nome_medico>
+    <j.0:crm>31</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/95">
+    <j.0:valor_consulta>103</j.0:valor_consulta>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Isaac Costela</j.0:nome_medico>
+    <j.0:crm>95</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/83">
+    <j.0:valor_consulta>359</j.0:valor_consulta>
+    <j.0:ano_formacao>1996</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Sophie Mendes</j.0:nome_medico>
+    <j.0:crm>83</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/71">
+    <j.0:valor_consulta>125</j.0:valor_consulta>
+    <j.0:ano_formacao>2010</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Sra. Ana Carolina Rodrigues</j.0:nome_medico>
+    <j.0:crm>71</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/6">
+    <j.0:valor_consulta>237</j.0:valor_consulta>
+    <j.0:ano_formacao>1984</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Felipe Vieira</j.0:nome_medico>
+    <j.0:crm>6</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/28">
+    <j.0:valor_consulta>248</j.0:valor_consulta>
+    <j.0:ano_formacao>2013</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Danilo Silveira</j.0:nome_medico>
+    <j.0:crm>28</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/16">
+    <j.0:valor_consulta>297</j.0:valor_consulta>
+    <j.0:ano_formacao>2007</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Pedro Miguel Fernandes</j.0:nome_medico>
+    <j.0:crm>16</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/68">
+    <j.0:valor_consulta>246</j.0:valor_consulta>
+    <j.0:ano_formacao>2018</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Mariane Castro</j.0:nome_medico>
+    <j.0:crm>68</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/34">
+    <j.0:valor_consulta>112</j.0:valor_consulta>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Rafael Fernandes</j.0:nome_medico>
+    <j.0:crm>34</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/22">
+    <j.0:valor_consulta>339</j.0:valor_consulta>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Eduardo Moraes</j.0:nome_medico>
+    <j.0:crm>22</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/98">
+    <j.0:valor_consulta>186</j.0:valor_consulta>
+    <j.0:ano_formacao>1973</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Eloah Peixoto</j.0:nome_medico>
+    <j.0:crm>98</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/10">
+    <j.0:valor_consulta>354</j.0:valor_consulta>
+    <j.0:ano_formacao>1983</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>João Vitor Porto</j.0:nome_medico>
+    <j.0:crm>10</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/86">
+    <j.0:valor_consulta>336</j.0:valor_consulta>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Davi Luiz da Rosa</j.0:nome_medico>
+    <j.0:crm>86</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/74">
+    <j.0:valor_consulta>214</j.0:valor_consulta>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Sra. Maria Vitória Peixoto</j.0:nome_medico>
+    <j.0:crm>74</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/62">
+    <j.0:valor_consulta>312</j.0:valor_consulta>
+    <j.0:ano_formacao>1986</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Luiz Felipe Novaes</j.0:nome_medico>
+    <j.0:crm>62</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/50">
+    <j.0:valor_consulta>184</j.0:valor_consulta>
+    <j.0:ano_formacao>1985</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Esther Cavalcanti</j.0:nome_medico>
+    <j.0:crm>50</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/5">
+    <j.0:valor_consulta>370</j.0:valor_consulta>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Henrique da Costa</j.0:nome_medico>
+    <j.0:crm>5</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/90">
+    <j.0:valor_consulta>211</j.0:valor_consulta>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Matheus Almeida</j.0:nome_medico>
+    <j.0:crm>90</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/19">
+    <j.0:valor_consulta>231</j.0:valor_consulta>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Ian Duarte</j.0:nome_medico>
+    <j.0:crm>19</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/59">
+    <j.0:valor_consulta>146</j.0:valor_consulta>
+    <j.0:ano_formacao>1978</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Marcos Vinicius Porto</j.0:nome_medico>
+    <j.0:crm>59</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/47">
+    <j.0:valor_consulta>173</j.0:valor_consulta>
+    <j.0:ano_formacao>1999</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Danilo Almeida</j.0:nome_medico>
+    <j.0:crm>47</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/35">
+    <j.0:valor_consulta>127</j.0:valor_consulta>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Sr. Yago Almeida</j.0:nome_medico>
+    <j.0:crm>35</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/45">
+    <j.0:valor_consulta>289</j.0:valor_consulta>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Sra. Raquel Ferreira</j.0:nome_medico>
+    <j.0:crm>45</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/33">
+    <j.0:valor_consulta>246</j.0:valor_consulta>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Laís Vieira</j.0:nome_medico>
+    <j.0:crm>33</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/21">
+    <j.0:valor_consulta>292</j.0:valor_consulta>
+    <j.0:ano_formacao>1983</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Cauã Duarte</j.0:nome_medico>
+    <j.0:crm>21</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/97">
+    <j.0:valor_consulta>261</j.0:valor_consulta>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Henrique da Mata</j.0:nome_medico>
+    <j.0:crm>97</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/85">
+    <j.0:valor_consulta>116</j.0:valor_consulta>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Sra. Emilly Rocha</j.0:nome_medico>
+    <j.0:crm>85</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/73">
+    <j.0:valor_consulta>186</j.0:valor_consulta>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Isadora Cunha</j.0:nome_medico>
+    <j.0:crm>73</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/61">
+    <j.0:valor_consulta>378</j.0:valor_consulta>
+    <j.0:ano_formacao>1976</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Augusto Correia</j.0:nome_medico>
+    <j.0:crm>61</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/4">
+    <j.0:valor_consulta>225</j.0:valor_consulta>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>João Vitor Cardoso</j.0:nome_medico>
+    <j.0:crm>4</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/18">
+    <j.0:valor_consulta>311</j.0:valor_consulta>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Clara da Costa</j.0:nome_medico>
+    <j.0:crm>18</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/58">
+    <j.0:valor_consulta>141</j.0:valor_consulta>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Leandro Gomes</j.0:nome_medico>
+    <j.0:crm>58</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/46">
+    <j.0:valor_consulta>307</j.0:valor_consulta>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Nicole Araújo</j.0:nome_medico>
+    <j.0:crm>46</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/12">
+    <j.0:valor_consulta>191</j.0:valor_consulta>
+    <j.0:ano_formacao>2016</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Paulo da Mata</j.0:nome_medico>
+    <j.0:crm>12</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/88">
+    <j.0:valor_consulta>119</j.0:valor_consulta>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Isabelly Fogaça</j.0:nome_medico>
+    <j.0:crm>88</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/76">
+    <j.0:valor_consulta>393</j.0:valor_consulta>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Alexia Silva</j.0:nome_medico>
+    <j.0:crm>76</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/64">
+    <j.0:valor_consulta>103</j.0:valor_consulta>
+    <j.0:ano_formacao>1993</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Stella das Neves</j.0:nome_medico>
+    <j.0:crm>64</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/52">
+    <j.0:valor_consulta>230</j.0:valor_consulta>
+    <j.0:ano_formacao>2001</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Raquel Porto</j.0:nome_medico>
+    <j.0:crm>52</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/40">
+    <j.0:valor_consulta>154</j.0:valor_consulta>
+    <j.0:ano_formacao>1999</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Ana Sophia Correia</j.0:nome_medico>
+    <j.0:crm>40</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/92">
+    <j.0:valor_consulta>333</j.0:valor_consulta>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Luana Nascimento</j.0:nome_medico>
+    <j.0:crm>92</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/80">
+    <j.0:valor_consulta>141</j.0:valor_consulta>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Gabriela Souza</j.0:nome_medico>
+    <j.0:crm>80</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/3">
+    <j.0:valor_consulta>322</j.0:valor_consulta>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Yago da Paz</j.0:nome_medico>
+    <j.0:crm>3</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/49">
+    <j.0:valor_consulta>196</j.0:valor_consulta>
+    <j.0:ano_formacao>2009</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Isabelly Azevedo</j.0:nome_medico>
+    <j.0:crm>49</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/37">
+    <j.0:valor_consulta>131</j.0:valor_consulta>
+    <j.0:ano_formacao>2011</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Srta. Sophia Almeida</j.0:nome_medico>
+    <j.0:crm>37</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/25">
+    <j.0:valor_consulta>232</j.0:valor_consulta>
+    <j.0:ano_formacao>1996</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Daniel da Mota</j.0:nome_medico>
+    <j.0:crm>25</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/13">
+    <j.0:valor_consulta>371</j.0:valor_consulta>
+    <j.0:ano_formacao>2003</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Cauê Santos</j.0:nome_medico>
+    <j.0:crm>13</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/23">
+    <j.0:valor_consulta>341</j.0:valor_consulta>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Daniela Dias</j.0:nome_medico>
+    <j.0:crm>23</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/99">
+    <j.0:valor_consulta>367</j.0:valor_consulta>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Luiz Felipe Aragão</j.0:nome_medico>
+    <j.0:crm>99</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/11">
+    <j.0:valor_consulta>251</j.0:valor_consulta>
+    <j.0:ano_formacao>2013</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Sra. Nicole da Paz</j.0:nome_medico>
+    <j.0:crm>11</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/87">
+    <j.0:valor_consulta>271</j.0:valor_consulta>
+    <j.0:ano_formacao>1993</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Vitor Oliveira</j.0:nome_medico>
+    <j.0:crm>87</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/75">
+    <j.0:valor_consulta>272</j.0:valor_consulta>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Heitor Lopes</j.0:nome_medico>
+    <j.0:crm>75</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/63">
+    <j.0:valor_consulta>309</j.0:valor_consulta>
+    <j.0:ano_formacao>2002</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Juliana Barbosa</j.0:nome_medico>
+    <j.0:crm>63</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/51">
+    <j.0:valor_consulta>352</j.0:valor_consulta>
+    <j.0:ano_formacao>1990</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Vitória Nunes</j.0:nome_medico>
+    <j.0:crm>51</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/91">
+    <j.0:valor_consulta>314</j.0:valor_consulta>
+    <j.0:ano_formacao>1977</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Paulo Cardoso</j.0:nome_medico>
+    <j.0:crm>91</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/2">
+    <j.0:valor_consulta>385</j.0:valor_consulta>
+    <j.0:ano_formacao>1975</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Rafael Pires</j.0:nome_medico>
+    <j.0:crm>2</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/48">
+    <j.0:valor_consulta>351</j.0:valor_consulta>
+    <j.0:ano_formacao>2015</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Srta. Sarah da Paz</j.0:nome_medico>
+    <j.0:crm>48</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/36">
+    <j.0:valor_consulta>258</j.0:valor_consulta>
+    <j.0:ano_formacao>2018</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Dra. Sarah Melo</j.0:nome_medico>
+    <j.0:crm>36</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/24">
+    <j.0:valor_consulta>265</j.0:valor_consulta>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Kamilly Rodrigues</j.0:nome_medico>
+    <j.0:crm>24</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/78">
+    <j.0:valor_consulta>378</j.0:valor_consulta>
+    <j.0:ano_formacao>1971</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Mirella Moreira</j.0:nome_medico>
+    <j.0:crm>78</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/66">
+    <j.0:valor_consulta>191</j.0:valor_consulta>
+    <j.0:ano_formacao>1982</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Isabel Peixoto</j.0:nome_medico>
+    <j.0:crm>66</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/54">
+    <j.0:valor_consulta>323</j.0:valor_consulta>
+    <j.0:ano_formacao>1970</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>João Lucas da Rocha</j.0:nome_medico>
+    <j.0:crm>54</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/42">
+    <j.0:valor_consulta>116</j.0:valor_consulta>
+    <j.0:ano_formacao>1987</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Henrique da Mata</j.0:nome_medico>
+    <j.0:crm>42</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/30">
+    <j.0:valor_consulta>389</j.0:valor_consulta>
+    <j.0:ano_formacao>1982</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Sr. Marcos Vinicius Freitas</j.0:nome_medico>
+    <j.0:crm>30</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/9">
+    <j.0:valor_consulta>122</j.0:valor_consulta>
+    <j.0:ano_formacao>1981</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Maria Luiza Peixoto</j.0:nome_medico>
+    <j.0:crm>9</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/94">
+    <j.0:valor_consulta>282</j.0:valor_consulta>
+    <j.0:ano_formacao>1989</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Yago da Cunha</j.0:nome_medico>
+    <j.0:crm>94</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/82">
+    <j.0:valor_consulta>290</j.0:valor_consulta>
+    <j.0:ano_formacao>1988</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Maria Cecília Campos</j.0:nome_medico>
+    <j.0:crm>82</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/70">
+    <j.0:valor_consulta>296</j.0:valor_consulta>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Maria Luiza da Cruz</j.0:nome_medico>
+    <j.0:crm>70</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/1">
+    <j.0:valor_consulta>221</j.0:valor_consulta>
+    <j.0:ano_formacao>2017</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Giovanna da Costa</j.0:nome_medico>
+    <j.0:crm>1</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/39">
+    <j.0:valor_consulta>218</j.0:valor_consulta>
+    <j.0:ano_formacao>1986</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Srta. Isis Nunes</j.0:nome_medico>
+    <j.0:crm>39</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/27">
+    <j.0:valor_consulta>149</j.0:valor_consulta>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Vitor Gabriel da Luz</j.0:nome_medico>
+    <j.0:crm>27</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/15">
+    <j.0:valor_consulta>139</j.0:valor_consulta>
+    <j.0:ano_formacao>1977</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Levi Cardoso</j.0:nome_medico>
+    <j.0:crm>15</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/79">
+    <j.0:valor_consulta>293</j.0:valor_consulta>
+    <j.0:ano_formacao>1984</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Ana Vitória Freitas</j.0:nome_medico>
+    <j.0:crm>79</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/89">
+    <j.0:valor_consulta>372</j.0:valor_consulta>
+    <j.0:ano_formacao>1989</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Ana Lívia Silveira</j.0:nome_medico>
+    <j.0:crm>89</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/77">
+    <j.0:valor_consulta>331</j.0:valor_consulta>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Alana Ramos</j.0:nome_medico>
+    <j.0:crm>77</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/65">
+    <j.0:valor_consulta>237</j.0:valor_consulta>
+    <j.0:ano_formacao>2004</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Fernando Lima</j.0:nome_medico>
+    <j.0:crm>65</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/53">
+    <j.0:valor_consulta>124</j.0:valor_consulta>
+    <j.0:ano_formacao>1998</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Luiza Ferreira</j.0:nome_medico>
+    <j.0:crm>53</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/41">
+    <j.0:valor_consulta>243</j.0:valor_consulta>
+    <j.0:ano_formacao>2005</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Ana Carolina da Mata</j.0:nome_medico>
+    <j.0:crm>41</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/8">
+    <j.0:valor_consulta>183</j.0:valor_consulta>
+    <j.0:ano_formacao>1972</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Evelyn Gonçalves</j.0:nome_medico>
+    <j.0:crm>8</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/93">
+    <j.0:valor_consulta>360</j.0:valor_consulta>
+    <j.0:ano_formacao>2006</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Alícia Barbosa</j.0:nome_medico>
+    <j.0:crm>93</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/81">
+    <j.0:valor_consulta>256</j.0:valor_consulta>
+    <j.0:ano_formacao>1992</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Lucca Azevedo</j.0:nome_medico>
+    <j.0:crm>81</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/0">
+    <j.0:valor_consulta>193</j.0:valor_consulta>
+    <j.0:ano_formacao>1994</j.0:ano_formacao>
+    <j.1:id_especialidade>2</j.1:id_especialidade>
+    <j.0:nome_medico>Fernanda Martins</j.0:nome_medico>
+    <j.0:crm>0</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/38">
+    <j.0:valor_consulta>209</j.0:valor_consulta>
+    <j.0:ano_formacao>1980</j.0:ano_formacao>
+    <j.1:id_especialidade>1</j.1:id_especialidade>
+    <j.0:nome_medico>Carolina Nascimento</j.0:nome_medico>
+    <j.0:crm>38</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/26">
+    <j.0:valor_consulta>249</j.0:valor_consulta>
+    <j.0:ano_formacao>2000</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Joana Martins</j.0:nome_medico>
+    <j.0:crm>26</j.0:crm>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/medico/14">
+    <j.0:valor_consulta>352</j.0:valor_consulta>
+    <j.0:ano_formacao>1991</j.0:ano_formacao>
+    <j.1:id_especialidade>3</j.1:id_especialidade>
+    <j.0:nome_medico>Dr. Caio Silva</j.0:nome_medico>
+    <j.0:crm>14</j.0:crm>
+  </rdf:Description>
+</rdf:RDF>

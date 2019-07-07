@@ -1,0 +1,897 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://consultasmedicas.io/paciente/"
+    xmlns:j.1="http://consultasmedicas.io/consulta/"
+    xmlns:j.2="http://consultasmedicas.io/medico/">
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/95">
+    <j.2:id_paciente>885</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 11:00</j.1:data_consulta>
+    <j.2:id_paciente>349</j.2:id_paciente>
+    <j.0:crm_medico>95</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-12 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/83">
+    <j.2:id_paciente>295</j.2:id_paciente>
+    <j.0:crm_medico>83</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-23 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/71">
+    <j.1:data_consulta>2019-07-18 12:00</j.1:data_consulta>
+    <j.2:id_paciente>939</j.2:id_paciente>
+    <j.2:id_paciente>558</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 14:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-29 17:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-29 12:00</j.1:data_consulta>
+    <j.2:id_paciente>250</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 10:00</j.1:data_consulta>
+    <j.2:id_paciente>857</j.2:id_paciente>
+    <j.2:id_paciente>538</j.2:id_paciente>
+    <j.0:crm_medico>71</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-04 14:00</j.1:data_consulta>
+    <j.2:id_paciente>855</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/6">
+    <j.2:id_paciente>364</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 14:00</j.1:data_consulta>
+    <j.2:id_paciente>888</j.2:id_paciente>
+    <j.0:crm_medico>6</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-15 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/39">
+    <j.2:id_paciente>135</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 10:00</j.1:data_consulta>
+    <j.2:id_paciente>602</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 18:00</j.1:data_consulta>
+    <j.2:id_paciente>524</j.2:id_paciente>
+    <j.0:crm_medico>39</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-25 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/27">
+    <j.2:id_paciente>478</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 13:00</j.1:data_consulta>
+    <j.2:id_paciente>824</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 10:00</j.1:data_consulta>
+    <j.2:id_paciente>133</j.2:id_paciente>
+    <j.0:crm_medico>27</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-02 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/15">
+    <j.2:id_paciente>134</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-25 9:00</j.1:data_consulta>
+    <j.2:id_paciente>28</j.2:id_paciente>
+    <j.0:crm_medico>15</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-29 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/79">
+    <j.2:id_paciente>895</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 13:00</j.1:data_consulta>
+    <j.2:id_paciente>539</j.2:id_paciente>
+    <j.0:crm_medico>79</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-04 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/67">
+    <j.2:id_paciente>872</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 18:00</j.1:data_consulta>
+    <j.2:id_paciente>58</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-16 17:00</j.1:data_consulta>
+    <j.2:id_paciente>329</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 10:00</j.1:data_consulta>
+    <j.2:id_paciente>227</j.2:id_paciente>
+    <j.0:crm_medico>67</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-16 13:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/55">
+    <j.1:data_consulta>2019-06-21 10:00</j.1:data_consulta>
+    <j.2:id_paciente>626</j.2:id_paciente>
+    <j.2:id_paciente>914</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 12:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-11 16:00</j.1:data_consulta>
+    <j.0:crm_medico>55</j.0:crm_medico>
+    <j.2:id_paciente>336</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-13 9:00</j.1:data_consulta>
+    <j.2:id_paciente>503</j.2:id_paciente>
+    <j.2:id_paciente>604</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 11:00</j.1:data_consulta>
+    <j.2:id_paciente>208</j.2:id_paciente>
+    <j.2:id_paciente>315</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 17:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-15 9:00</j.1:data_consulta>
+    <j.2:id_paciente>684</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/43">
+    <j.2:id_paciente>349</j.2:id_paciente>
+    <j.0:crm_medico>43</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-10 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/31">
+    <j.2:id_paciente>329</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 10:00</j.1:data_consulta>
+    <j.2:id_paciente>710</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 11:00</j.1:data_consulta>
+    <j.2:id_paciente>514</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-13 11:00</j.1:data_consulta>
+    <j.2:id_paciente>851</j.2:id_paciente>
+    <j.0:crm_medico>31</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-08 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/30">
+    <j.2:id_paciente>560</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-15 17:00</j.1:data_consulta>
+    <j.2:id_paciente>11</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 10:00</j.1:data_consulta>
+    <j.2:id_paciente>563</j.2:id_paciente>
+    <j.0:crm_medico>30</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-12 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/94">
+    <j.2:id_paciente>681</j.2:id_paciente>
+    <j.0:crm_medico>94</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/82">
+    <j.2:id_paciente>35</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 14:00</j.1:data_consulta>
+    <j.2:id_paciente>709</j.2:id_paciente>
+    <j.0:crm_medico>82</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/70">
+    <j.0:crm_medico>70</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-24 17:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-03 16:00</j.1:data_consulta>
+    <j.2:id_paciente>347</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 15:00</j.1:data_consulta>
+    <j.2:id_paciente>462</j.2:id_paciente>
+    <j.2:id_paciente>718</j.2:id_paciente>
+    <j.2:id_paciente>811</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-13 14:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-18 15:00</j.1:data_consulta>
+    <j.2:id_paciente>819</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/7">
+    <j.2:id_paciente>339</j.2:id_paciente>
+    <j.0:crm_medico>7</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-29 16:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-02 16:00</j.1:data_consulta>
+    <j.2:id_paciente>403</j.2:id_paciente>
+    <j.2:id_paciente>543</j.2:id_paciente>
+    <j.2:id_paciente>567</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-16 16:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-02 10:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-25 12:00</j.1:data_consulta>
+    <j.2:id_paciente>501</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/38">
+    <j.2:id_paciente>813</j.2:id_paciente>
+    <j.2:id_paciente>720</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 15:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-02 9:00</j.1:data_consulta>
+    <j.2:id_paciente>743</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-10 13:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-13 13:00</j.1:data_consulta>
+    <j.2:id_paciente>403</j.2:id_paciente>
+    <j.2:id_paciente>587</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 14:00</j.1:data_consulta>
+    <j.2:id_paciente>485</j.2:id_paciente>
+    <j.2:id_paciente>303</j.2:id_paciente>
+    <j.0:crm_medico>38</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-04 12:00</j.1:data_consulta>
+    <j.2:id_paciente>370</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-20 16:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-10 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/26">
+    <j.2:id_paciente>622</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 9:00</j.1:data_consulta>
+    <j.2:id_paciente>796</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-29 16:00</j.1:data_consulta>
+    <j.2:id_paciente>301</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 15:00</j.1:data_consulta>
+    <j.2:id_paciente>208</j.2:id_paciente>
+    <j.0:crm_medico>26</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-14 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/14">
+    <j.2:id_paciente>44</j.2:id_paciente>
+    <j.2:id_paciente>452</j.2:id_paciente>
+    <j.2:id_paciente>551</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 13:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-04 15:00</j.1:data_consulta>
+    <j.0:crm_medico>14</j.0:crm_medico>
+    <j.2:id_paciente>69</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 11:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-12 15:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-10 18:00</j.1:data_consulta>
+    <j.2:id_paciente>18</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/78">
+    <j.2:id_paciente>893</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 14:00</j.1:data_consulta>
+    <j.2:id_paciente>436</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-25 9:00</j.1:data_consulta>
+    <j.2:id_paciente>46</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-25 13:00</j.1:data_consulta>
+    <j.2:id_paciente>28</j.2:id_paciente>
+    <j.0:crm_medico>78</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/54">
+    <j.2:id_paciente>186</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-12 12:00</j.1:data_consulta>
+    <j.2:id_paciente>282</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 9:00</j.1:data_consulta>
+    <j.2:id_paciente>62</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 10:00</j.1:data_consulta>
+    <j.2:id_paciente>549</j.2:id_paciente>
+    <j.0:crm_medico>54</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-22 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/42">
+    <j.2:id_paciente>205</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 13:00</j.1:data_consulta>
+    <j.2:id_paciente>308</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-29 14:00</j.1:data_consulta>
+    <j.2:id_paciente>202</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 18:00</j.1:data_consulta>
+    <j.2:id_paciente>991</j.2:id_paciente>
+    <j.0:crm_medico>42</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-16 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/41">
+    <j.2:id_paciente>586</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 15:00</j.1:data_consulta>
+    <j.2:id_paciente>523</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-29 9:00</j.1:data_consulta>
+    <j.2:id_paciente>516</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-23 15:00</j.1:data_consulta>
+    <j.2:id_paciente>98</j.2:id_paciente>
+    <j.0:crm_medico>41</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-16 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/93">
+    <j.1:data_consulta>2019-06-21 11:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-27 9:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-25 11:00</j.1:data_consulta>
+    <j.0:crm_medico>93</j.0:crm_medico>
+    <j.2:id_paciente>614</j.2:id_paciente>
+    <j.2:id_paciente>589</j.2:id_paciente>
+    <j.2:id_paciente>102</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-10 16:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-06 18:00</j.1:data_consulta>
+    <j.2:id_paciente>382</j.2:id_paciente>
+    <j.2:id_paciente>989</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/81">
+    <j.2:id_paciente>277</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 12:00</j.1:data_consulta>
+    <j.2:id_paciente>104</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-28 9:00</j.1:data_consulta>
+    <j.2:id_paciente>201</j.2:id_paciente>
+    <j.0:crm_medico>81</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-01 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/3">
+    <j.2:id_paciente>431</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 18:00</j.1:data_consulta>
+    <j.2:id_paciente>192</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 12:00</j.1:data_consulta>
+    <j.2:id_paciente>312</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 11:00</j.1:data_consulta>
+    <j.2:id_paciente>262</j.2:id_paciente>
+    <j.0:crm_medico>3</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/4">
+    <j.2:id_paciente>200</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-07 11:00</j.1:data_consulta>
+    <j.2:id_paciente>249</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 16:00</j.1:data_consulta>
+    <j.2:id_paciente>462</j.2:id_paciente>
+    <j.0:crm_medico>4</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-09 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/49">
+    <j.2:id_paciente>337</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 17:00</j.1:data_consulta>
+    <j.2:id_paciente>994</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-28 13:00</j.1:data_consulta>
+    <j.2:id_paciente>645</j.2:id_paciente>
+    <j.0:crm_medico>49</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-01 13:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/37">
+    <j.2:id_paciente>882</j.2:id_paciente>
+    <j.0:crm_medico>37</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-06 18:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/25">
+    <j.2:id_paciente>661</j.2:id_paciente>
+    <j.0:crm_medico>25</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/13">
+    <j.2:id_paciente>425</j.2:id_paciente>
+    <j.0:crm_medico>13</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-08 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/77">
+    <j.2:id_paciente>759</j.2:id_paciente>
+    <j.0:crm_medico>77</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-17 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/65">
+    <j.2:id_paciente>131</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 15:00</j.1:data_consulta>
+    <j.2:id_paciente>238</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 17:00</j.1:data_consulta>
+    <j.2:id_paciente>644</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-12 9:00</j.1:data_consulta>
+    <j.2:id_paciente>77</j.2:id_paciente>
+    <j.0:crm_medico>65</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-18 18:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/53">
+    <j.2:id_paciente>307</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 17:00</j.1:data_consulta>
+    <j.2:id_paciente>499</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-12 10:00</j.1:data_consulta>
+    <j.2:id_paciente>922</j.2:id_paciente>
+    <j.0:crm_medico>53</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-10 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/52">
+    <j.2:id_paciente>419</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-16 11:00</j.1:data_consulta>
+    <j.2:id_paciente>2</j.2:id_paciente>
+    <j.0:crm_medico>52</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-14 13:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-25 15:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-28 10:00</j.1:data_consulta>
+    <j.2:id_paciente>8</j.2:id_paciente>
+    <j.2:id_paciente>226</j.2:id_paciente>
+    <j.2:id_paciente>733</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/40">
+    <j.0:crm_medico>40</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-18 17:00</j.1:data_consulta>
+    <j.2:id_paciente>496</j.2:id_paciente>
+    <j.2:id_paciente>168</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 12:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-17 15:00</j.1:data_consulta>
+    <j.2:id_paciente>622</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 9:00</j.1:data_consulta>
+    <j.2:id_paciente>558</j.2:id_paciente>
+    <j.2:id_paciente>152</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/92">
+    <j.2:id_paciente>376</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 16:00</j.1:data_consulta>
+    <j.2:id_paciente>795</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 12:00</j.1:data_consulta>
+    <j.2:id_paciente>115</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 18:00</j.1:data_consulta>
+    <j.2:id_paciente>644</j.2:id_paciente>
+    <j.0:crm_medico>92</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/80">
+    <j.2:id_paciente>942</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 14:00</j.1:data_consulta>
+    <j.2:id_paciente>468</j.2:id_paciente>
+    <j.0:crm_medico>80</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-21 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/100">
+    <j.2:id_paciente>778</j.2:id_paciente>
+    <j.0:crm_medico>100</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-18 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/5">
+    <j.2:id_paciente>212</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-26 11:00</j.1:data_consulta>
+    <j.2:id_paciente>62</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-26 16:00</j.1:data_consulta>
+    <j.2:id_paciente>318</j.2:id_paciente>
+    <j.0:crm_medico>5</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-10 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/48">
+    <j.2:id_paciente>255</j.2:id_paciente>
+    <j.0:crm_medico>48</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-28 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/36">
+    <j.2:id_paciente>854</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 16:00</j.1:data_consulta>
+    <j.2:id_paciente>747</j.2:id_paciente>
+    <j.0:crm_medico>36</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-27 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/24">
+    <j.2:id_paciente>946</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-07 14:00</j.1:data_consulta>
+    <j.2:id_paciente>415</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 17:00</j.1:data_consulta>
+    <j.2:id_paciente>810</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 16:00</j.1:data_consulta>
+    <j.2:id_paciente>904</j.2:id_paciente>
+    <j.0:crm_medico>24</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-27 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/12">
+    <j.2:id_paciente>691</j.2:id_paciente>
+    <j.0:crm_medico>12</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-28 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/88">
+    <j.2:id_paciente>31</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 12:00</j.1:data_consulta>
+    <j.2:id_paciente>37</j.2:id_paciente>
+    <j.0:crm_medico>88</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-24 13:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/76">
+    <j.1:data_consulta>2019-06-23 12:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-27 9:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-16 12:00</j.1:data_consulta>
+    <j.2:id_paciente>567</j.2:id_paciente>
+    <j.2:id_paciente>623</j.2:id_paciente>
+    <j.0:crm_medico>76</j.0:crm_medico>
+    <j.2:id_paciente>452</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 14:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-08 15:00</j.1:data_consulta>
+    <j.2:id_paciente>489</j.2:id_paciente>
+    <j.2:id_paciente>951</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/64">
+    <j.2:id_paciente>255</j.2:id_paciente>
+    <j.0:crm_medico>64</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-13 12:00</j.1:data_consulta>
+    <j.2:id_paciente>275</j.2:id_paciente>
+    <j.2:id_paciente>946</j.2:id_paciente>
+    <j.2:id_paciente>902</j.2:id_paciente>
+    <j.2:id_paciente>657</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-06 17:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-05 11:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-16 18:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-14 13:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/63">
+    <j.2:id_paciente>470</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-06 9:00</j.1:data_consulta>
+    <j.2:id_paciente>362</j.2:id_paciente>
+    <j.0:crm_medico>63</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/51">
+    <j.2:id_paciente>689</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-20 13:00</j.1:data_consulta>
+    <j.2:id_paciente>603</j.2:id_paciente>
+    <j.0:crm_medico>51</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-30 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/91">
+    <j.2:id_paciente>742</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 18:00</j.1:data_consulta>
+    <j.2:id_paciente>85</j.2:id_paciente>
+    <j.0:crm_medico>91</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-23 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/1">
+    <j.2:id_paciente>24</j.2:id_paciente>
+    <j.0:crm_medico>1</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/19">
+    <j.1:data_consulta>2019-06-23 17:00</j.1:data_consulta>
+    <j.2:id_paciente>926</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-28 11:00</j.1:data_consulta>
+    <j.2:id_paciente>283</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-26 10:00</j.1:data_consulta>
+    <j.0:crm_medico>19</j.0:crm_medico>
+    <j.2:id_paciente>276</j.2:id_paciente>
+    <j.2:id_paciente>209</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 13:00</j.1:data_consulta>
+    <j.2:id_paciente>585</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/59">
+    <j.2:id_paciente>981</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 17:00</j.1:data_consulta>
+    <j.2:id_paciente>794</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 10:00</j.1:data_consulta>
+    <j.2:id_paciente>638</j.2:id_paciente>
+    <j.0:crm_medico>59</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-16 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/47">
+    <j.2:id_paciente>233</j.2:id_paciente>
+    <j.0:crm_medico>47</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-11 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/35">
+    <j.2:id_paciente>74</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-10 15:00</j.1:data_consulta>
+    <j.2:id_paciente>990</j.2:id_paciente>
+    <j.0:crm_medico>35</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-24 10:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/23">
+    <j.2:id_paciente>543</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 14:00</j.1:data_consulta>
+    <j.2:id_paciente>830</j.2:id_paciente>
+    <j.0:crm_medico>23</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-07 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/99">
+    <j.2:id_paciente>912</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 11:00</j.1:data_consulta>
+    <j.2:id_paciente>803</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 11:00</j.1:data_consulta>
+    <j.2:id_paciente>686</j.2:id_paciente>
+    <j.0:crm_medico>99</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-17 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/11">
+    <j.2:id_paciente>611</j.2:id_paciente>
+    <j.0:crm_medico>11</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-26 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/87">
+    <j.2:id_paciente>902</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 12:00</j.1:data_consulta>
+    <j.2:id_paciente>620</j.2:id_paciente>
+    <j.0:crm_medico>87</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-07 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/75">
+    <j.2:id_paciente>532</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 18:00</j.1:data_consulta>
+    <j.2:id_paciente>741</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 17:00</j.1:data_consulta>
+    <j.2:id_paciente>559</j.2:id_paciente>
+    <j.0:crm_medico>75</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-24 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/74">
+    <j.2:id_paciente>640</j.2:id_paciente>
+    <j.0:crm_medico>74</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-01 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/62">
+    <j.2:id_paciente>237</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 15:00</j.1:data_consulta>
+    <j.2:id_paciente>57</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-13 12:00</j.1:data_consulta>
+    <j.2:id_paciente>651</j.2:id_paciente>
+    <j.0:crm_medico>62</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-21 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/50">
+    <j.2:id_paciente>535</j.2:id_paciente>
+    <j.0:crm_medico>50</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-24 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/90">
+    <j.2:id_paciente>621</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-07 18:00</j.1:data_consulta>
+    <j.2:id_paciente>726</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 13:00</j.1:data_consulta>
+    <j.2:id_paciente>548</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-26 15:00</j.1:data_consulta>
+    <j.2:id_paciente>88</j.2:id_paciente>
+    <j.0:crm_medico>90</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-17 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/2">
+    <j.2:id_paciente>41</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-26 18:00</j.1:data_consulta>
+    <j.2:id_paciente>264</j.2:id_paciente>
+    <j.0:crm_medico>2</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-26 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/18">
+    <j.2:id_paciente>753</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-29 16:00</j.1:data_consulta>
+    <j.2:id_paciente>304</j.2:id_paciente>
+    <j.0:crm_medico>18</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-18 17:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/58">
+    <j.2:id_paciente>805</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 15:00</j.1:data_consulta>
+    <j.2:id_paciente>185</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 13:00</j.1:data_consulta>
+    <j.2:id_paciente>734</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-25 15:00</j.1:data_consulta>
+    <j.2:id_paciente>46</j.2:id_paciente>
+    <j.0:crm_medico>58</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-11 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/46">
+    <j.2:id_paciente>25</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 12:00</j.1:data_consulta>
+    <j.0:crm_medico>46</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-02 10:00</j.1:data_consulta>
+    <j.2:id_paciente>303</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 14:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-16 13:00</j.1:data_consulta>
+    <j.2:id_paciente>608</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 13:00</j.1:data_consulta>
+    <j.2:id_paciente>678</j.2:id_paciente>
+    <j.2:id_paciente>350</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/34">
+    <j.2:id_paciente>310</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 9:00</j.1:data_consulta>
+    <j.2:id_paciente>892</j.2:id_paciente>
+    <j.0:crm_medico>34</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/98">
+    <j.2:id_paciente>821</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 16:00</j.1:data_consulta>
+    <j.2:id_paciente>119</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 17:00</j.1:data_consulta>
+    <j.2:id_paciente>670</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 9:00</j.1:data_consulta>
+    <j.2:id_paciente>88</j.2:id_paciente>
+    <j.0:crm_medico>98</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-04 18:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/10">
+    <j.2:id_paciente>988</j.2:id_paciente>
+    <j.0:crm_medico>10</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-23 18:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/86">
+    <j.2:id_paciente>512</j.2:id_paciente>
+    <j.0:crm_medico>86</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-11 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/85">
+    <j.2:id_paciente>670</j.2:id_paciente>
+    <j.0:crm_medico>85</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-14 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/73">
+    <j.2:id_paciente>645</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-17 18:00</j.1:data_consulta>
+    <j.2:id_paciente>524</j.2:id_paciente>
+    <j.0:crm_medico>73</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-15 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/61">
+    <j.2:id_paciente>552</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-15 17:00</j.1:data_consulta>
+    <j.2:id_paciente>293</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 10:00</j.1:data_consulta>
+    <j.2:id_paciente>339</j.2:id_paciente>
+    <j.0:crm_medico>61</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-12 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/8">
+    <j.2:id_paciente>457</j.2:id_paciente>
+    <j.0:crm_medico>8</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-01 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/29">
+    <j.2:id_paciente>733</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 17:00</j.1:data_consulta>
+    <j.2:id_paciente>47</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-12 14:00</j.1:data_consulta>
+    <j.2:id_paciente>531</j.2:id_paciente>
+    <j.0:crm_medico>29</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-06 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/17">
+    <j.1:data_consulta>2019-07-02 16:00</j.1:data_consulta>
+    <j.0:crm_medico>17</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-22 16:00</j.1:data_consulta>
+    <j.2:id_paciente>660</j.2:id_paciente>
+    <j.2:id_paciente>926</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-16 9:00</j.1:data_consulta>
+    <j.2:id_paciente>380</j.2:id_paciente>
+    <j.2:id_paciente>764</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-20 11:00</j.1:data_consulta>
+    <j.2:id_paciente>21</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 16:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-24 17:00</j.1:data_consulta>
+    <j.2:id_paciente>99</j.2:id_paciente>
+    <j.2:id_paciente>361</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-24 16:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/69">
+    <j.2:id_paciente>946</j.2:id_paciente>
+    <j.2:id_paciente>889</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 9:00</j.1:data_consulta>
+    <j.2:id_paciente>479</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-28 14:00</j.1:data_consulta>
+    <j.2:id_paciente>984</j.2:id_paciente>
+    <j.2:id_paciente>449</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 9:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-07 18:00</j.1:data_consulta>
+    <j.2:id_paciente>190</j.2:id_paciente>
+    <j.2:id_paciente>394</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 13:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-03 18:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-09 16:00</j.1:data_consulta>
+    <j.0:crm_medico>69</j.0:crm_medico>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/57">
+    <j.2:id_paciente>739</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-16 11:00</j.1:data_consulta>
+    <j.2:id_paciente>829</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 12:00</j.1:data_consulta>
+    <j.2:id_paciente>402</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 16:00</j.1:data_consulta>
+    <j.2:id_paciente>768</j.2:id_paciente>
+    <j.0:crm_medico>57</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-12 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/45">
+    <j.2:id_paciente>294</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 17:00</j.1:data_consulta>
+    <j.2:id_paciente>426</j.2:id_paciente>
+    <j.0:crm_medico>45</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-13 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/33">
+    <j.2:id_paciente>771</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 17:00</j.1:data_consulta>
+    <j.2:id_paciente>655</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 18:00</j.1:data_consulta>
+    <j.2:id_paciente>750</j.2:id_paciente>
+    <j.0:crm_medico>33</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-28 15:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/21">
+    <j.2:id_paciente>78</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-03 18:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-23 17:00</j.1:data_consulta>
+    <j.2:id_paciente>822</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 13:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-01 17:00</j.1:data_consulta>
+    <j.2:id_paciente>756</j.2:id_paciente>
+    <j.2:id_paciente>556</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-28 17:00</j.1:data_consulta>
+    <j.2:id_paciente>961</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 13:00</j.1:data_consulta>
+    <j.0:crm_medico>21</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-18 16:00</j.1:data_consulta>
+    <j.2:id_paciente>856</j.2:id_paciente>
+    <j.2:id_paciente>49</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/97">
+    <j.2:id_paciente>56</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 18:00</j.1:data_consulta>
+    <j.2:id_paciente>41</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-05 10:00</j.1:data_consulta>
+    <j.2:id_paciente>781</j.2:id_paciente>
+    <j.0:crm_medico>97</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-14 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/96">
+    <j.1:data_consulta>2019-07-07 14:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-29 10:00</j.1:data_consulta>
+    <j.0:crm_medico>96</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-16 14:00</j.1:data_consulta>
+    <j.2:id_paciente>669</j.2:id_paciente>
+    <j.2:id_paciente>289</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-22 10:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-29 17:00</j.1:data_consulta>
+    <j.2:id_paciente>736</j.2:id_paciente>
+    <j.2:id_paciente>263</j.2:id_paciente>
+    <j.2:id_paciente>115</j.2:id_paciente>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/84">
+    <j.2:id_paciente>487</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-11 13:00</j.1:data_consulta>
+    <j.2:id_paciente>427</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 16:00</j.1:data_consulta>
+    <j.2:id_paciente>468</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-15 10:00</j.1:data_consulta>
+    <j.2:id_paciente>180</j.2:id_paciente>
+    <j.0:crm_medico>84</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-15 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/72">
+    <j.2:id_paciente>924</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 12:00</j.1:data_consulta>
+    <j.2:id_paciente>337</j.2:id_paciente>
+    <j.0:crm_medico>72</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-25 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/60">
+    <j.2:id_paciente>318</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-10 16:00</j.1:data_consulta>
+    <j.2:id_paciente>251</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-14 16:00</j.1:data_consulta>
+    <j.2:id_paciente>63</j.2:id_paciente>
+    <j.0:crm_medico>60</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-10 9:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/0">
+    <j.2:id_paciente>992</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-17 18:00</j.1:data_consulta>
+    <j.2:id_paciente>121</j.2:id_paciente>
+    <j.0:crm_medico>0</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/28">
+    <j.2:id_paciente>262</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-09 9:00</j.1:data_consulta>
+    <j.2:id_paciente>924</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-21 14:00</j.1:data_consulta>
+    <j.2:id_paciente>76</j.2:id_paciente>
+    <j.0:crm_medico>28</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-08 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/16">
+    <j.2:id_paciente>983</j.2:id_paciente>
+    <j.0:crm_medico>16</j.0:crm_medico>
+    <j.1:data_consulta>2019-07-05 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/68">
+    <j.2:id_paciente>689</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-01 10:00</j.1:data_consulta>
+    <j.2:id_paciente>748</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-30 12:00</j.1:data_consulta>
+    <j.2:id_paciente>11</j.2:id_paciente>
+    <j.0:crm_medico>68</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-21 11:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/56">
+    <j.2:id_paciente>951</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-27 17:00</j.1:data_consulta>
+    <j.2:id_paciente>636</j.2:id_paciente>
+    <j.0:crm_medico>56</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-21 12:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/44">
+    <j.2:id_paciente>468</j.2:id_paciente>
+    <j.2:id_paciente>733</j.2:id_paciente>
+    <j.2:id_paciente>628</j.2:id_paciente>
+    <j.2:id_paciente>772</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 15:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-13 15:00</j.1:data_consulta>
+    <j.2:id_paciente>789</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-08 9:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-21 14:00</j.1:data_consulta>
+    <j.2:id_paciente>871</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-18 18:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-07-07 17:00</j.1:data_consulta>
+    <j.0:crm_medico>44</j.0:crm_medico>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/32">
+    <j.2:id_paciente>722</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-12 14:00</j.1:data_consulta>
+    <j.2:id_paciente>692</j.2:id_paciente>
+    <j.1:data_consulta>2019-06-23 17:00</j.1:data_consulta>
+    <j.2:id_paciente>412</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 14:00</j.1:data_consulta>
+    <j.2:id_paciente>124</j.2:id_paciente>
+    <j.0:crm_medico>32</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-27 14:00</j.1:data_consulta>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/consulta/20">
+    <j.1:data_consulta>2019-06-27 18:00</j.1:data_consulta>
+    <j.2:id_paciente>667</j.2:id_paciente>
+    <j.2:id_paciente>973</j.2:id_paciente>
+    <j.2:id_paciente>895</j.2:id_paciente>
+    <j.2:id_paciente>404</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-04 17:00</j.1:data_consulta>
+    <j.2:id_paciente>260</j.2:id_paciente>
+    <j.0:crm_medico>20</j.0:crm_medico>
+    <j.1:data_consulta>2019-06-21 9:00</j.1:data_consulta>
+    <j.2:id_paciente>517</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-02 10:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-23 17:00</j.1:data_consulta>
+    <j.1:data_consulta>2019-06-24 17:00</j.1:data_consulta>
+    <j.2:id_paciente>309</j.2:id_paciente>
+    <j.1:data_consulta>2019-07-15 10:00</j.1:data_consulta>
+  </rdf:Description>
+</rdf:RDF>

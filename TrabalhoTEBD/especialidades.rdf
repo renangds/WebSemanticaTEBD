@@ -1,0 +1,19 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <rdf:Description rdf:about="http://consultasmedicas.io/especialidade/cardiologista">
+    <vcard:FN>coracao</vcard:FN>
+    <vcard:FN>2</vcard:FN>
+    <vcard:FN>cardiologista</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/especialidade/dermatologista">
+    <vcard:FN>peles, cabelos, unhas</vcard:FN>
+    <vcard:FN>1</vcard:FN>
+    <vcard:FN>dermatologista</vcard:FN>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://consultasmedicas.io/especialidade/hepatologista">
+    <vcard:FN>figado</vcard:FN>
+    <vcard:FN>3</vcard:FN>
+    <vcard:FN>hepatologista</vcard:FN>
+  </rdf:Description>
+</rdf:RDF>
