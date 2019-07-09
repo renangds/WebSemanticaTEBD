@@ -1,5 +1,3 @@
-<%@ page import="Model.Querys" %>
-<%@ page import="java.util.List" %>
 
 <%--
   Created by IntelliJ IDEA.
@@ -10,6 +8,9 @@
 --%>
 
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page import="Controller.MedicosPorEspecialidadeServlet" %>
+<%@ page import="java.util.List" %>
+
 <html>
 <head>
     <title>Listagem de Médicos</title>
@@ -17,11 +18,25 @@
 <body>
     <h1>Listagem de Médicos</h1>
 
-    <%
-        Querys query = new Querys();
-        List <String> lista = query.searchByAreas("cardiologista");
-    %>
+        <form action="consultasmedicas">
+            <select name="medico">
+                <%
+                    List <String> lista = MedicosPorEspecialidadeServlet.listarMedicos(request.getParameter("especialidade"));
 
-    <h1>"<%= request.getParameter("especialidade") %>"</h1>
+                    //List <String> nomes = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade")).getNames();
+                    //List <String> crms = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade")).getCrms();
+
+                    for(String nomeMedico : lista){
+                    //for(int i=0; i<nomes.size()-1; i++){
+                %>
+
+                <option value=<%= nomeMedico %>><%= nomeMedico %></option>
+
+                <%
+                    }
+                %>
+            </select>
+        <input type="submit" name="Listar"/>
+    </form>
 </body>
 </html>

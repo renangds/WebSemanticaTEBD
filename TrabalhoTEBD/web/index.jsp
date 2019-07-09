@@ -1,4 +1,5 @@
-<%--
+<%@ page import="java.util.List" %>
+<%@ page import="Controller.MedicosPorEspecialidadeServlet" %><%--
   Created by IntelliJ IDEA.
   User: renan
   Date: 23/06/2019
@@ -15,9 +16,23 @@
 
     <form action="medicosporespecialidade">
         <select name="especialidade">
+            <%
+                List <String> list = MedicosPorEspecialidadeServlet.listagemDeEspecialidades();
+
+                for(String nome : list){
+            %>
+
+            <option value=<%=nome%>><%=nome%></option>
+
+            <%
+                }
+            %>
+
+            <!--
             <option value="2">Cardiologista</option>
             <option value="1">Dermatologista</option>
             <option value="3">Hepatologista</option>
+            -->
             <input type="submit" name="Consultar"/>
         </select>
     </form>
