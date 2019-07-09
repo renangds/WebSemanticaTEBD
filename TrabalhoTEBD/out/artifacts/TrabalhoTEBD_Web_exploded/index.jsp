@@ -11,6 +11,15 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
+    <h1>Sistema de Consulta Médica</h1>
+
+    <form action="medicosporespecialidade">
+        <select name="especialidade">
+            <option value="2">Cardiologista</option>
+            <option value="1">Dermatologista</option>
+            <option value="3">Hepatologista</option>
+            <input type="submit" name="Consultar"/>
+        </select>
+    </form>
 </body>
 </html>

@@ -20,7 +20,7 @@ public class DatabaseJenaTest {
 
     public static void main(String...args){
         execSelectAndPrint(
-                "http://localhost:3030/teste",
-                "SELECT ?x WHERE { ?x  <http://www.w3.org/2001/vcard-rdf/3.0#FN>  \"John Smith\" }");
+                "http://localhost:3030/testes",
+                "SELECT ?x ?nomes WHERE { ?x  <http://www.w3.org/2001/vcard-rdf/3.0#FN>  ?nomes }");
     }
 }

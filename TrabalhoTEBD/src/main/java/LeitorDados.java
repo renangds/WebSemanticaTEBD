@@ -21,38 +21,6 @@ public class LeitorDados {
         this.model = ModelFactory.createDefaultModel();
     }
 
-    /*
-    public static void main(String...args) throws FileNotFoundException, IOException {
-        BufferedReader dados = new BufferedReader(new FileReader("/home/renan/IdeaProjects/TrabalhoTEBD/" +
-                "/src/data/especialidade.txt"));
-
-        List <String> a;
-
-        Model model = ModelFactory.createDefaultModel();
-
-        while(dados.ready()){
-            String linha = dados.readLine();
-
-            a = Arrays.asList(linha.split("[|]"));
-
-            a.forEach(System.out::println);
-
-            Resource newResource = model.createResource("http://consultasmedicas.io/especialidade/" + a.get(1))
-                    .addProperty(VCARD.FN, a.get(1))
-                    .addProperty(VCARD.FN, a.get(0))
-                    .addProperty(VCARD.FN, a.get(2));
-        }
-
-        File file = new File("especialidades.rdf");
-
-        FileWriter writter = new FileWriter(file);
-
-        model.write(writter);
-
-        dados.close();
-    }
-     */
-
     public void especialidadeToRdf() throws IOException{
         String typeProperty = this.URIPrefix + "especialidade/";
 
@@ -159,16 +127,22 @@ public class LeitorDados {
         Property data_consulta = this.model.createProperty(typeProperty + "data_consulta");
         Property crm_medico = this.model.createProperty(pacienteProperty + "crm_medico");
         Property id_paciente = this.model.createProperty(medicoProperty + "id_paciente");
+        Property id_consulta = this.model.createProperty(medicoProperty + "id_consulta");
+
+        int id = 1;
 
         while(dados.ready()){
             String linha = dados.readLine();
 
             this.lineReader = Arrays.asList(linha.split("[|]"));
 
-            Resource newResource = model.createResource(typeProperty + lineReader.get(1))
+            Resource newResource = model.createResource(typeProperty + id)
                     .addProperty(data_consulta, lineReader.get(0))
                     .addProperty(crm_medico, lineReader.get(1))
-                    .addProperty(id_paciente, lineReader.get(2));
+                    .addProperty(id_paciente, lineReader.get(2))
+                    .addProperty(id_consulta, Integer.toString(id));
+
+            id++;
         }
 
         File file = new File("consultas.rdf");
