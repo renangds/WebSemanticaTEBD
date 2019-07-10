@@ -31,14 +31,15 @@ public class Querys {
             result.add(y.getString());
         }
 
+        q.close();
 
         return result;
     }
 
-    public DataDoctor getQueryDoctors(String query){
+    public List<Medico> getQueryDoctors(String query){
         QueryExecution q = QueryExecutionFactory.sparqlService(this.serviceURI, query);
 
-        DataDoctor data = new DataDoctor();
+        List <Medico> medicos = new ArrayList<>();
 
         ResultSet results = q.execSelect();
 
@@ -46,13 +47,12 @@ public class Querys {
             QuerySolution soln = results.nextSolution();
             Literal x = soln.getLiteral("nome");
             Literal y = soln.getLiteral("crm");
-            data.setCrms(y.getString());
-            data.setNames(x.getString());
+            medicos.add(new Medico(x.getString(), y.getString()));
         }
 
-        data.getCrms().forEach(System.out::println);
+        q.close();
 
-        return data;
+        return medicos;
     }
 
     public List<String> searchAreas(){
@@ -84,30 +84,32 @@ public class Querys {
         return result;
     }
 
-    public DataDoctor searchByAreas2(String area){
+    public List<Medico> searchByAreas2(String area){
         String query = "PREFIX M: <http://consultasmedicas.io/medico/> " +
                 "PREFIX E: <http://consultasmedicas.io/especialidade/> " +
                 "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
-                "SELECT ?nome ?crm" +
+                "SELECT ?nome ?crm " +
                 "WHERE{" +
                 "E:" + area +" E:id_especialidade ?id." +
                 "?medico E:id_especialidade ?id." +
                 "?medico M:nome_medico ?nome." +
-                "?medico M:crm ?crm" +
+                "?medico M:crm ?crm." +
                 "}";
 
-        DataDoctor d = this.getQueryDoctors(query);
+        List<Medico> lista = this.getQueryDoctors(query);
 
-        return d;
+        return lista;
     }
 
     public List<String> searchDatesByCrm(String crm){
         String query = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
                 "PREFIX C: <http://consultasmedicas.io/consulta/> " +
                 "PREFIX P: <http://consultasmedicas.io/paciente/> " +
+                "PREFIX E: <http://consultasmedicas.io/especialidade/> " +
+                "PREFIX M: <http://consultasmedicas.io/medico/> " +
                 "SELECT ?nome " +
                 "WHERE { " +
-                "?consulta P:crm_medico " + crm + ". ?consulta C:data_consulta ?nome.}";
+                "?consulta P:crm_medico \"" + crm + "\". ?consulta C:data_consulta ?nome.}";
 
         List <String> result = this.getQueryFromDatabase(query);
 
@@ -121,7 +123,7 @@ public class Querys {
                 "PREFIX P: <http://consultasmedicas.io/paciente/> " +
                 "SELECT ?data " +
                 "WHERE { " +
-                "?medico M:nome_medico \"" + name + "\". ?medico M:crm ?crm. ?consulta P:crm_medico ?crm. ?consulta C:data_consulta ?data.}";
+                "?medico M:nome_medico " + name + ". ?medico M:crm ?crm. ?consulta P:crm_medico ?crm. ?consulta C:data_consulta ?data.}";
 
         List <String> result = this.getQueryFromDatabase(query);
 
@@ -141,7 +143,11 @@ public class Querys {
 
         //List<String> lista = q.searchDatesByName(p);
 
-        DataDoctor d = q.searchByAreas2("cardiologista");
+        //List<Medico> d = q.searchByAreas2("cardiologista");
+
+        List<String> lista = q.searchDatesByCrm("2");
+
+        lista.forEach(System.out::println);
 
         //d.getNames().forEach(System.out::println);
         /*

@@ -12,19 +12,5 @@ public class DataDoctor {
         this.names = new ArrayList<>();
     }
 
-    public void setCrms(String crm){
-        this.crms.add(crm);
-    }
 
-    public void setNames(String name){
-        this.names.add(name);
-    }
-
-    public List<String> getCrms(){
-        return this.crms;
-    }
-
-    public List<String> getNames(){
-        return this.names;
-    }
 }

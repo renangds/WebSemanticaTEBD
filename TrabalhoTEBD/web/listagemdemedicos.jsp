@@ -10,6 +10,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="Controller.MedicosPorEspecialidadeServlet" %>
 <%@ page import="java.util.List" %>
+<%@ page import="Model.Medico" %>
 
 <html>
 <head>
@@ -21,16 +22,12 @@
         <form action="consultasmedicas">
             <select name="medico">
                 <%
-                    List <String> lista = MedicosPorEspecialidadeServlet.listarMedicos(request.getParameter("especialidade"));
+                    List<Medico> listaMedico = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade"));
 
-                    //List <String> nomes = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade")).getNames();
-                    //List <String> crms = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade")).getCrms();
-
-                    for(String nomeMedico : lista){
-                    //for(int i=0; i<nomes.size()-1; i++){
+                    for(int i=0; i<listaMedico.size()-1; i++){
                 %>
 
-                <option value=<%= nomeMedico %>><%= nomeMedico %></option>
+                <option value=<%= listaMedico.get(i).getCRM() %>> <%= listaMedico.get(i).getNome() %></option>
 
                 <%
                     }
