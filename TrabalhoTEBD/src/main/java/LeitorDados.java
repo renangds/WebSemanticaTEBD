@@ -157,6 +157,6 @@ public class LeitorDados {
     public static void main(String...args) throws IOException{
         LeitorDados leitor = new LeitorDados();
 
-        leitor.consultasToRdf();
+        leitor.especialidadeToRdf();
     }
 }

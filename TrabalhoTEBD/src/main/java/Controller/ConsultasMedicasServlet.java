@@ -1,5 +1,6 @@
 package Controller;
 
+import Model.Medico;
 import Model.Querys;
 
 import javax.servlet.ServletException;
@@ -13,6 +14,14 @@ import java.util.List;
 
 @WebServlet("/consultasmedicas")
 public class ConsultasMedicasServlet extends HttpServlet {
+
+    public static Medico getDoctorData(String crm){
+        Querys query = new Querys();
+
+        Medico medico = query.getDoctorWithCrm(crm);
+
+        return medico;
+    }
 
     public static List<String> listarHorariosMedico(String crm){
         List <String> list;

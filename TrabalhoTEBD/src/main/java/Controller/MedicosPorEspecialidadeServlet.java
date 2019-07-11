@@ -29,7 +29,6 @@ public class MedicosPorEspecialidadeServlet extends HttpServlet {
         return lista;
     }
 
-
     public static List<Medico> listagemDeEspecialidades2(String especialidade){
         Querys querys = new Querys();
 

@@ -55,6 +55,25 @@ public class Querys {
         return medicos;
     }
 
+    public Medico getMedicoQuery(String query){
+        QueryExecution q = QueryExecutionFactory.sparqlService(this.serviceURI, query);
+
+        ResultSet results = q.execSelect();
+
+        QuerySolution soln = results.nextSolution();
+        Literal x = soln.getLiteral("nome");
+        Literal y = soln.getLiteral("ano");
+        Literal z = soln.getLiteral("valor");
+
+        Medico medico = new Medico(x.getString(), null);
+        medico.setAnoFormacao(y.getString());
+        medico.setValor_consulta(z.getString());
+
+        q.close();
+
+        return medico;
+    }
+
     public List<String> searchAreas(){
         String query = "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
                 " PREFIX E: <http://consultasmedicas.io/especialidade/>" +
@@ -130,33 +149,25 @@ public class Querys {
         return result;
     }
 
-    public void searchByData(String doctor){
+    public Medico getDoctorWithCrm(String crm){
+        String query = "PREFIX M: <http://consultasmedicas.io/medico/> " +
+                "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> " +
+                "SELECT ?nome ?ano ?valor " +
+                "WHERE { ?medico M:crm \"" + crm + "\". ?medico M:nome_medico ?nome. ?medico M:ano_formacao ?ano. " +
+                "?medico M:valor_consulta ?valor.}";
 
+        Medico medico = this.getMedicoQuery(query);
+
+        return medico;
     }
 
     public static void main(String...args){
         Querys q = new Querys();
 
-        //q.searchDatesByCrm("22");
+        Medico m = q.getDoctorWithCrm("1");
 
-        //String p = "Paulo da Mata";
-
-        //List<String> lista = q.searchDatesByName(p);
-
-        //List<Medico> d = q.searchByAreas2("cardiologista");
-
-        List<String> lista = q.searchDatesByCrm("2");
-
-        lista.forEach(System.out::println);
-
-        //d.getNames().forEach(System.out::println);
-        /*
-        while(results.hasNext()){
-            QuerySolution soln = results.nextSolution();
-            RDFNode x = soln.get("nome");
-            Literal y = soln.getLiteral("nome");
-            System.out.println(y.getString());
-        }
-         */
+        System.out.println(m.getAno_formacao());
+        System.out.println(m.getNome());
+        System.out.println(m.getValor_consulta());
     }
 }

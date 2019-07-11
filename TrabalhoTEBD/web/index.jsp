@@ -27,12 +27,6 @@
             <%
                 }
             %>
-
-            <!--
-            <option value="2">Cardiologista</option>
-            <option value="1">Dermatologista</option>
-            <option value="3">Hepatologista</option>
-            -->
             <input type="submit" name="Consultar"/>
         </select>
     </form>

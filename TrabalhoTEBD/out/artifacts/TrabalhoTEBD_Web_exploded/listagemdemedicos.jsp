@@ -22,11 +22,8 @@
         <form action="consultasmedicas">
             <select name="medico">
                 <%
-                    //List <String> lista = MedicosPorEspecialidadeServlet.listarMedicos(request.getParameter("especialidade"));
-
                     List<Medico> listaMedico = MedicosPorEspecialidadeServlet.listagemDeEspecialidades2(request.getParameter("especialidade"));
 
-                    //for(String nomeMedico : lista){
                     for(int i=0; i<listaMedico.size()-1; i++){
                 %>
 
